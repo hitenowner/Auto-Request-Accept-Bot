@@ -31,17 +31,4 @@
 
 ## Config Varies
 
-<b>`API_ID`</b> : **Goto [my.telegram.org](https://my.telegram.org) to obtain this.**
-
-<b>`API_HASH`</b> : **Goto [my.telegram.org](https://my.telegram.org) to obtain this.**
-
-<b>`BOT_TOKEN`</b> : **Get the bot token from [@BotFather](https://telegram.dog/BotFather)**
-
-<b>`CHAT_ID`</b> : **Group/Channel ID Which you are going to use this bot**
-
-<b>`APPROVED_WELCOME`</b> : **On Or Off Approved Welcome Text**
-
-<b>`APPROVED_WELCOME_TEXT`</b> : **Approved Welcome Text**
-### Developer
-- [AutoApprove Bot by Mo Tech](https://github.com/PR0FESS0R-99/Auto-Approved-Bot)
-## [Share Support And Subscribe](https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA)
+<b>`
